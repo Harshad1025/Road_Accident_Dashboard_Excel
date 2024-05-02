@@ -36,7 +36,7 @@ This dashboard is essential for various stakeholders involved in road safety and
 
 ## 📁 Repository Structure
 
-- `Road_Accident_Dashboard.xlsx`: Excel file containing the dashboard.
+- `Road Accident Data.xlsx`: Excel file containing the dashboard.
 - `LICENSE`: MIT License file.
 - `README.md`: README file providing an overview of the project.
 
